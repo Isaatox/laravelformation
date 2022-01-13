@@ -9,7 +9,7 @@ class PostController extends Controller
 {
     public function index()
     {
-        // $post = Post::find(1);
+        // $post = Post::find(2);
         // $post->update([
         //     'title' => 'Titre édité'
         // ]);
